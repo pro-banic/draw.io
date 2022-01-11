@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T06:57:45.041Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="D3Xm6nICVbtxohLEn7OU" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T07:04:23.578Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-4ZsLt2BHWHDnaZ0bviN" version="16.2.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1422" dy="55" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="56" value="Project&#xa;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" parent="1" vertex="1">
-          <mxGeometry x="154" y="850.5" width="2030" height="80" as="geometry" />
+        <mxCell id="56" value="Einführung protel" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="154" y="849.5" width="2030" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="57" value="Hotel" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="154" y="930.5" width="50" height="300" as="geometry" />
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <object label="Vertragszeichnung" id="90">
-          <mxCell style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxCell style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#ffffff;" parent="1" vertex="1">
             <mxGeometry x="270.3945578231293" y="955.5" width="127" height="50" as="geometry" />
           </mxCell>
         </object>
@@ -134,7 +134,7 @@
         <mxCell id="O3Df2EH__vUxQ8gFs6EI-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" parent="1" source="96" target="95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="96" value="Aufbereitung" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="96" value="Aufbereitung" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="478.3537414965986" y="1355.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="97" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
@@ -368,7 +368,7 @@
         <mxCell id="141" value="Vorprojekt" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="140" vertex="1">
           <mxGeometry width="646.6656362699642" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="142" value="Milestone 2" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="140" vertex="1">
+        <mxCell id="142" value="Hauptprojekt" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="140" vertex="1">
           <mxGeometry x="646.6656362699642" width="646.6656362699642" height="40" as="geometry" />
         </mxCell>
         <mxCell id="143" value="Milestone 3" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="140" vertex="1">
