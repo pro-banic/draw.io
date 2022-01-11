@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T07:04:23.578Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-4ZsLt2BHWHDnaZ0bviN" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T07:08:26.146Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="oN-iLQCvMJ766WQ0zyzc" version="16.2.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2031" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
         <mxCell id="64" value="pro Hotel" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="154" y="1230.5" width="50" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="65" value="Lane 3.2" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="65" value="Finanzen" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="204" y="1530.5" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="66" value="Lane 3.1" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="66" value="Support" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="204" y="1430.5" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="67" value="protel" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -143,7 +143,7 @@
         <mxCell id="98" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1372.5714285714284" y="955.5" width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="99" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;gradientColor=none;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+        <mxCell id="99" value="Übernahme Support" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;gradientColor=none;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2029.2380952380952" y="1455.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="100" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="1" vertex="1">
